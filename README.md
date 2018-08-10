@@ -1,4 +1,4 @@
-# Python-Music-Player
+# RexPlayer v1.0
 
 This Music Player is based on Python with cross-platform function
 
