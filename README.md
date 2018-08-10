@@ -6,14 +6,25 @@ I only debug the code in windows
 
 I'm not sure if it can perfectly run in linux or osX
 
+# Code by vscode
+
+# Python Version Requirement
+
 Python version >= python3.4
 
-You need These libs:
+# You need These libs:
 
 1.pygame
 
 2.mutagen
+
+# Python libs requirement
+
 You can install these two libs in console for this way:
 
 1. pip install pygame
 2. pip install mutagen
+
+# How To Run
+
+Just run it in idle or console 
