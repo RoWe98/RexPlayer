@@ -4,7 +4,7 @@ This Music Player is based on Python with cross-platform function
 
 I only debug the code in windows
 
-I'm not sure if it can perfect run in linux or osX
+I'm not sure if it can perfectly run in linux or osX
 
 Python version >= python3.4
 
