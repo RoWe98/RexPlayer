@@ -93,7 +93,7 @@ def play():
                 musicName.set('playing....' + ''.join(nextMusic))
                 audio = MP3(nextMusicName)
                 MusicTime = int(audio.info.length)
-                print(u"音乐时长为: {}秒".format(MusicTime))
+                print(u"音乐时长为: <{}:{}>".format(MusicTime//60,MusicTime%60))
                 print("\n")
             else:
                 time.sleep(0.1)
