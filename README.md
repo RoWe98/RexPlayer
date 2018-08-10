@@ -12,13 +12,13 @@ I'm not sure if it can perfectly run in linux or osX
 
 Python version >= python3.4
 
-# You need These libs:
+# Python libs requirement
 
 1.pygame
 
 2.mutagen
 
-# Python libs requirement
+# How to install libs
 
 You can install these two libs in console for this way:
 
