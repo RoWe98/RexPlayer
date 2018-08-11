@@ -1,4 +1,11 @@
 # -*- coding: utf-8 -*-
+#
+#  Created by RoWe98 on 2018/8/11.
+#  Copyright © 2018 luoshaoqi. All rights reserved.
+#
+
+
+
 import os
 import tkinter
 import tkinter.filedialog
