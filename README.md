@@ -2,7 +2,7 @@
 
 This update is for the GUI items
 
-In this version you could know which sony you play and the length of the song
+In this version you could know which song you play and the length of the song
 
 # RexPlayer v1.0
 
