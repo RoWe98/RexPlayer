@@ -28,3 +28,6 @@ You can install these two libs in console for this way:
 # How To Run
 
 Just run it in idle or console 
+
+# NOTICE
+if you find any bug show it in Issues
