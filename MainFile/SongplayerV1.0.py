@@ -11,7 +11,6 @@ import pygame
 import eyed3
 from mutagen.mp3 import MP3
 
-__author__ = 'lpe234'
 
 root = tkinter.Tk()
 root.title('音乐播放器')
