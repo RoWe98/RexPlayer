@@ -10,7 +10,9 @@ This Music Player is based on Python with cross-platform function
 
 I only debug the code in windows
 
-I'm not sure if it can perfectly run in linux or osX
+debug version:
+
+windows: windows 10 pro  linux:ubuntu 18.04  mac osx:high serria 10.13
 
 # Code by vscode
 
