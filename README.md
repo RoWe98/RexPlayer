@@ -1,3 +1,9 @@
+# RexPlayer v1.5
+
+This update is for the GUI items
+
+In this version you could know which sony you play and the length of the song
+
 # RexPlayer v1.0
 
 This Music Player is based on Python with cross-platform function
