@@ -19,7 +19,7 @@ from tkinter import *
 
 
 root = tkinter.Tk()
-root.title('音乐播放器')
+root.title('RexPlayer')
 # 窗口大小及位置
 root.geometry('460x600+500+100')
 
