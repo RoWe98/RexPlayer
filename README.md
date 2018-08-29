@@ -6,7 +6,9 @@ In this version you could know which song you play and the length of the song
 
 debug version:
 
-windows: windows 10 pro  linux:ubuntu 18.04  mac osx:high serria 10.13
+windows: windows 10 pro  
+linux:ubuntu 18.04  
+mac osx:high serria 10.13
 
 # RexPlayer v1.0
 
